@@ -1,1 +1,1 @@
-# smart-watch
+# Smart Watch Landing Page
